@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\oop7\oop7\bin\Debug\oop7.exe.config
+C:\Users\marsy\Source\Repos\oop7\oop7\bin\Debug\oop7.exe
+C:\Users\marsy\Source\Repos\oop7\oop7\bin\Debug\oop7.pdb
+C:\Users\marsy\Source\Repos\oop7\oop7\obj\Debug\oop7.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\oop7\oop7\obj\Debug\oop7.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\oop7\oop7\obj\Debug\oop7.Form1.resources
+C:\Users\marsy\Source\Repos\oop7\oop7\obj\Debug\oop7.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\oop7\oop7\obj\Debug\oop7.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\oop7\oop7\obj\Debug\oop7.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\oop7\oop7\obj\Debug\oop7.exe
+C:\Users\marsy\Source\Repos\oop7\oop7\obj\Debug\oop7.pdb
